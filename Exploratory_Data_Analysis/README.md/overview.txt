@@ -1,0 +1,37 @@
+Overview
+
+This project performs Exploratory Data Analysis (EDA) on the Sample Superstore dataset to uncove
+sales trends, regional performance, and customer segment behavior.
+It aims to assist retail decision-makers by identifying key drivers of profit and loss.
+
+Features:
+
+    Order ID, Product, Category, Sub-Category
+
+    Sales, Profit, Quantity, Discount
+
+    Customer Segment, Region, State
+
+    Order Date, Ship Date, Shipping Mode
+
+Key Insights:
+
+    Technology category generates the highest profit, while Office Supplies lags behind.
+
+    Central and West regions show higher profitability; the South region needs improvement.
+
+    High discounts often lead to negative profit, especially in the Furniture category.
+
+    Home Office customers display inconsistent profitability and require targeted strategies.
+
+Tools Used:
+
+    Python (Jupyter Notebook)
+
+    Libraries:
+
+        pandas – Data loading and cleaning
+
+        seaborn, matplotlib – Visualizations
+
+        numpy – Numeric computations
